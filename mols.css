@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(./mbg.jpg);
+    background-size: cover;
+    text-align: center;
+}
+#mainG{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: url(./wbmg.png);
+    background-size: cover;
+    width: 540px;
+    height: 540px;
+    border-width: 3px;
+    border-radius: 26px;
+    border-color: #0b132b;
+    border-style: solid;
+    
+    
+}
+#mainG div{
+    width: 180px;
+    height: 180px;
+    background: url(./pipe.png);
+    background-size: cover;
+}
+#mainG div img{
+    width: 100px;
+    height: 100px;
+
+}
